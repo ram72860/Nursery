@@ -1,0 +1,141 @@
+.main1{
+    background: rgb(60, 54, 54);
+   padding: 15px;
+}
+
+.bu{
+    margin-left:200px;
+    width: 20%
+}
+.lo{
+    margin-left: 60px;
+}
+.su{
+    margin-left: 90px;
+}
+.ab{
+    margin-left: 109px;
+}
+.section2 video{
+    height: 700px;
+    width: 100%;
+    scroll-behavior: smooth;
+}
+.section3{
+    color: green;
+}
+
+.main4{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    margin-right: 20px;
+    text-align: center;
+    border: 2px solid  black;
+    height: 490px;
+    background: rgb(133, 62, 9);
+}
+.card button{
+    background: green;
+    color: azure;
+}
+.card h3{
+    color: rgb(1, 19, 108);
+}
+.card h4{
+    color: rgb(235, 0, 35);
+}
+.card big{
+    color: rgb(54, 245, 15);
+}
+
+.section4{
+    color: green;
+}
+.main5{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.card:hover{
+    background-color: rgb(199, 70, 96);
+    transform: scale(1.06);
+}
+
+.card1{
+    margin-right: 20px;
+    text-align: center;
+ 
+}
+.card1 img{
+    border-radius: 110px;
+}
+.card1 p{
+    border: 2px solid black;
+    color: azure;
+    background: green;
+
+}
+.card1:hover{
+    background-color: rgb(199, 70, 96);
+    transform: scale(1.06);
+}
+.section5{
+    color: green;
+}
+.main6 {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+      
+}
+.card3{
+    margin-right: 20px;
+    text-align: center;
+    border: 2px solid  black;
+    height: 490px;
+    background: rgb(131, 145, 86);
+    
+}
+.card3 img{
+    margin-right: 10px;
+
+}
+.card3 h3{
+    color: rgb(1, 19, 108);
+    
+}
+.card3 h4{
+    color: rgb(235, 0, 35);
+}
+.card3 big{
+    color: rgb(54, 245, 15);
+}
+.card3:hover{
+    background-color: rgb(199, 70, 96);
+    transform: scale(1.06);
+}
+
+iframe{
+    width: 300px;
+    height: 140px;
+}
+.section6{
+    background: rgb(49, 48, 47);
+    height: 400px;
+    width: 100%;
+}
+.main7 {
+    float: left;
+    font-size: 23px;
+    align-items: center;
+    margin-left: 90px;
+    margin-top: 90px;
+    color: azure;
+}
+.main7 h2{
+    margin-top: -70px;
+}
